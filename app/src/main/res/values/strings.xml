@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">ChallengeChap5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="r_u_sure">yakin</string>
+    <string name="yes">ya</string>
+    <string name="no">tidak</string>
+    <string name="judul">Judul</string>
+    <string name="roisul_tv">roisul TV</string>
+    <string name="hallo_my_friend_hope_you_enjoy">Hai temanku,semoga menikmati</string>
+    <string name="username">nama pengguna</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="forgot_password">Lupa Password?</string>
+    <string name="don_t_have_account">Tidak punya akun!!</string>
+    <string name="make_with_love_by_roisul">make with love by Roisul</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="re_password">ulang-password</string>
+    <string name="have_an_account">sudah punya akun</string>
+    <string name="home">HOME</string>
+    <string name="splash">Splash</string>
+    <string name="skip">Lewati</string>
+    <string name="silahkan_isi_semua">silahkan isi semua...</string>
+    <string name="can_t_login">Tidak bisa login</string>
+    <string name="logout">Keluar</string>
+    <string name="foradditem">ForAddItem</string>
+    <string name="upload">upload</string>
+    <string name="title">judul</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="video_url">video url</string>
+    <string name="description">Description</string>
+    <string name="walaupun_seperti_memiliki_kelainan_mental_elliot_berusaha_melindungi_orang_orang_dengan_caranya_sendiri_satu_waktu_dia_melucuti_pemilik_kafe_yang_ternyata_merupakan_seorang_pedofil_meski_ditawari_sejumlah_uang_untuk_tidak_melaporkan_kepada_polisi_elliot_tidak_memperdulikannya_begitu_juga_saat_dia_mencoba_untuk_membentengi_teman_semasa_kecil_angela_maupun_konselornya_krista_dari_orang_orang_jahat_sebelum_mengkonfrontir_orang_yang_memperhatikan_ia_selalu_mendapat_bukti_konkret_dari_keahliannya_yaitu_hacking_walaupun_seperti_memiliki_kelainan_mental_elliot_berusaha_melindungi_orang_orang_dengan_caranya_sendiri_satu_waktu_dia_melucuti_pemilik_kafe_yang_ternyata_merupakan_seorang_pedofil_meski_ditawari_sejumlah_uang_untuk_tidak_melaporkan_kepada_polisi_elliot_tidak_memperdulikannya_begitu_juga_saat_dia_mencoba_untuk_membentengi_teman_semasa_kecil_angela_maupun_konselornya_krista_dari_orang_orang_jahat_sebelum_mengkonfrontir_orang_yang_memperhatikan_ia_selalu_mendapat_bukti_konkret_dari_keahliannya_yaitu_hacking">Walaupun seperti memiliki kelainan mental, Elliot berusaha melindungi orang-orang dengan caranya sendiri. Satu waktu dia melucuti pemilik kafe yang ternyata merupakan seorang pedofil. Meski ditawari sejumlah uang untuk tidak melaporkan kepada polisi, Elliot tidak memperdulikannya. Begitu juga saat dia mencoba untuk membentengi teman semasa kecil, Angela, maupun konselornya, Krista, dari orang-orang jahat. Sebelum mengkonfrontir orang yang memperhatikan, ia selalu mendapat bukti konkret dari keahliannya yaitu hacking.Walaupun seperti memiliki kelainan mental, Elliot berusaha melindungi orang-orang dengan caranya sendiri. Satu waktu dia melucuti pemilik kafe yang ternyata merupakan seorang pedofil. Meski ditawari sejumlah uang untuk tidak melaporkan kepada polisi, Elliot tidak memperdulikannya. Begitu juga saat dia mencoba untuk membentengi teman semasa kecil, Angela, maupun konselornya, Krista, dari orang-orang jahat. Sebelum mengkonfrontir orang yang memperhatikan, ia selalu mendapat bukti konkret dari keahliannya yaitu hacking.</string>
+</resources>
